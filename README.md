@@ -10,6 +10,9 @@
 	<a href="https://twitter.com/nonezonyx">
 		<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 	</a>
+	<a href="https://www.linkedin.com/in/nonezonyx/">
+		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter"/>
+	</a>
 </div>
 
 
