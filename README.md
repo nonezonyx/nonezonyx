@@ -1,16 +1,21 @@
-### Hi there 👋
+<div id="header" align="center" >
+	<h1>Hi 👋, I'm NONEZONYX</h1>
+	<h3>Backend Developer</h3>
+</div>
 
-<!--
-**nonezonyx/nonezonyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="socials" align="center">
+	<a href="https://t.me/nonezonyx">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	</a>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nonezonyx&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nonezonyx&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nonezonyx&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nonezonyx&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nonezonyx&theme=monokai&utcOffset=8)
+
+</div>
