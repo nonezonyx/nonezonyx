@@ -12,10 +12,10 @@
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nonezonyx&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nonezonyx&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nonezonyx&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nonezonyx&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nonezonyx&theme=monokai&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nonezonyx&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nonezonyx&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nonezonyx&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nonezonyx&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nonezonyx&theme=apprentice&utcOffset=3)
 
 </div>
