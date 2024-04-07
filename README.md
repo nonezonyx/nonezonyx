@@ -4,18 +4,15 @@
 </div>
 
 <div id="socials" align="center">
-	<a href="https://t.me/nonezonyx">
-		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-	</a>
-	<a href="https://twitter.com/nonezonyx">
-		<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+	<a href="https://gitlab.com/nonezonyx">
+		<img src="https://img.shields.io/badge/Gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab"/>
 	</a>
 	<a href="https://www.linkedin.com/in/nonezonyx/">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter"/>
 	</a>
 </div>
 
-
+{::comment}
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nonezonyx&theme=apprentice)
@@ -25,3 +22,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nonezonyx&theme=apprentice&utcOffset=3)
 
 </div>
+{:/comment}
